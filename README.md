@@ -24,7 +24,7 @@ This project aims to conduct exploratory data analysis (EDA) on the famous Iris 
 ## What You'll Learn:
 Through this project, you'll develop proficiency in data visualization, basic data manipulation using Pandas, and dimensionality reduction techniques such as PCA using Scikit-learn. By exploring the Iris dataset, you'll gain practical experience in analyzing real-world data, identifying trends, and communicating insights through visualizations.
 
-# Dataset
+## Dataset
 The dataset used in this project was obtained from Kaggle's UCI Machine Learning Repository. The Iris dataset is a classic dataset in the field of machine learning and consists of 150 samples of iris flowers, each with four features (sepal length, sepal width, petal length, and petal width) and a target variable indicating the species of iris.
 
 - **Source**: [Kaggle - Iris Dataset](https://www.kaggle.com/datasets/uciml/iris)
