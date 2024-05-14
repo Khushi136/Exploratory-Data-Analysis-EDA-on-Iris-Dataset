@@ -4,10 +4,8 @@ Aim: Conduct exploratory data analysis on the famous Iris dataset to understand 
 ## Table of Contents
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
+- [What You'll Lear](#what-you'll-learn)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Description
